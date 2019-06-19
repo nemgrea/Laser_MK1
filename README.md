@@ -3,9 +3,10 @@ Co2 laser design
 
 Project goals:
 1. maximize cutting area to footprint ratio
-2. support multiple laser tube sizes currently 40w to 100w (with frame extension)
-3. construction with off the shelf parts and minimal tooling
-4. complex parts are 3d printed.
+2. scalable design if desired
+3. support multiple laser tube sizes currently 40w to 100w (with frame extension)
+4. construction with off the shelf parts and minimal tooling
+5. complex parts are 3d printed.
 
 
 current design: 
