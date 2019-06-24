@@ -24,4 +24,4 @@ frame and gantry are made from 2020 and 2040 t-slot extrusions.
 cutting area dimensions are 820mm x 550mm with a full width passthrough slot in the Y direction
 
 
-
+the .zip file contains the current .stp of the full assembly. (solidworks files coming soon)
