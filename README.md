@@ -1,7 +1,7 @@
 # Laser_MK1
 Co2 laser design
 
-![beta render](https://github.com/nemgrea/Laser_MK1/blob/master/preview_.jpg) ![frame_and_mechanics](https://github.com/nemgrea/Laser_MK1/blob/master/Image_1.JPG)
+![beta render](https://github.com/nemgrea/Laser_MK1/blob/master/Image.jpg) ![frame_and_mechanics](https://github.com/nemgrea/Laser_MK1/blob/master/Image_1.JPG)
 
 Project goals:
 1. maximize cutting area to footprint ratio
