@@ -13,7 +13,7 @@ Project goals:
 
 current design: 
 
-3 MGN12 linear rails for X and Y motion. 
+3x MGN12 linear rails for X and Y motion. 
 
 Z motion is achieved with a hand wheel and 4 AMCE lead screws. (power z modification is easily done)
 
