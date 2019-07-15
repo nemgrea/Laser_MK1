@@ -28,7 +28,7 @@ the .zip file contains the current .stp of the full assembly.
 
 PROJECT IS NOT FULLY COMPLETE NOT ALL PURCHASED PARTS ARE IN THE ASSEMBLY, BOM IS NOT COMPLETE rough estimate on project cost is $1k-$1500 
 
-if you want to build one of these pleae dont hesitate to contact me if you need assistance im more than happy to answer questions and provide help.
+if you want to build one of these please dont hesitate to contact me if you need assistance im more than happy to answer questions and provide help.
 
 reddit: u/nemgrea
 Discord: Nemgrea V2.199#4325
